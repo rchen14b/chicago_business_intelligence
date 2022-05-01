@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM golang:1.18-alpine
+FROM golang:1.17-alpine
 ENV PORT 8080
 ENV HOSTDIR 0.0.0.0
 
