@@ -43,7 +43,9 @@ package main
 import (
 	"fmt"
 	"io/ioutil"
+	"log"
 	"net/http"
+	"os"
 	"strconv"
 	"strings"
 	"time"
@@ -142,6 +144,13 @@ func main() {
 		fmt.Println("Couldn't Connect to database")
 		panic(err)
 	}
+
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "8080"
+	}
+	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%s", port), nil))
+
 	//GetTaxiTrips(db)
 	//GetUnemploymentRates(db)
 	//GetBuildingPermits(db)
