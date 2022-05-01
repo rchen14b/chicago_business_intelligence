@@ -138,13 +138,6 @@ func main() {
 		panic(err)
 	}
 
-	// Test the database connection
-	err = db.Ping()
-	if err != nil {
-		fmt.Println("Couldn't Connect to database")
-		panic(err)
-	}
-
 	port := os.Getenv("PORT")
 	if port == "" {
 		port = "8080"
@@ -191,7 +184,7 @@ func GetTaxiTrips(db *sql.DB) {
 	// Get your geocoder.ApiKey from here :
 	// https://developers.google.com/maps/documentation/geocoding/get-api-key?authuser=2
 
-	geocoder.ApiKey = "AIzaSyAk5ikHHqsFFfhISSOL__lMmueCrPLN_gI"
+	geocoder.ApiKey = "AIzaSyCxpQF76UJI0NmOKBfPtal9LvHEl5n6gZ4"
 	fmt.Println("GetTaxiTrips: Creating database table: as5_taxi_trips")
 	drop_table := `drop table if exists as5_taxi_trips`
 	_, err := db.Exec(drop_table)
@@ -542,7 +535,7 @@ func GetUnemploymentRates(db *sql.DB) {
 
 func GetBuildingPermits(db *sql.DB) {
 	fmt.Println("GetBuildingPermits: Collecting Building Permits Data")
-	geocoder.ApiKey = "AIzaSyAk5ikHHqsFFfhISSOL__lMmueCrPLN_gI"
+	geocoder.ApiKey = "AIzaSyCxpQF76UJI0NmOKBfPtal9LvHEl5n6gZ4"
 	fmt.Println("GetBuildingPermits: Creating database table: as5_building_permit")
 	drop_table := `drop table if exists as5_building_permit`
 	_, err := db.Exec(drop_table)
@@ -758,7 +751,7 @@ func GetCovidZipCode(db *sql.DB) {
 
 func GetCovidDaily(db *sql.DB) {
 	fmt.Println("GetCovidDaily: Collecting Covid daily Data")
-	geocoder.ApiKey = "AIzaSyAk5ikHHqsFFfhISSOL__lMmueCrPLN_gI"
+	geocoder.ApiKey = "AIzaSyCxpQF76UJI0NmOKBfPtal9LvHEl5n6gZ4"
 	fmt.Println("GetCovidDaily: Creating database table: as5_covid_daily")
 	drop_table := `drop table if exists as5_covid_daily`
 	_, err := db.Exec(drop_table)
