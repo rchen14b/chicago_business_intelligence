@@ -1,0 +1,994 @@
+[
+  {
+    "neighborhood": "Albany Park",
+    "community": "Albany Park"
+  },
+  {
+    "neighborhood": "Altgeld Gardens",
+    "community": "Riverdale"
+  },
+  {
+    "neighborhood": "Andersonville",
+    "community": "Edgewater"
+  },
+  {
+    "neighborhood": "Arcadia Terrace",
+    "community": "West Ridge"
+  },
+  {
+    "neighborhood": "Archer Heights",
+    "community": "Archer Heights"
+  },
+  {
+    "neighborhood": "Armour Square",
+    "community": "Armour Square"
+  },
+  {
+    "neighborhood": "Ashburn",
+    "community": "Ashburn"
+  },
+  {
+    "neighborhood": "Ashburn Estates",
+    "community": "Ashburn"
+  },
+  {
+    "neighborhood": "Auburn Gresham",
+    "community": "Auburn Gresham"
+  },
+  {
+    "neighborhood": "Avalon Park",
+    "community": "Avalon Park"
+  },
+  {
+    "neighborhood": "Avondale",
+    "community": "Avondale"
+  },
+  {
+    "neighborhood": "Avondale Gardens",
+    "community": "Irving Park"
+  },
+  {
+    "neighborhood": "Back of the Yards",
+    "community": "New City"
+  },
+  {
+    "neighborhood": "Belmont Central",
+    "community": "Belmont Cragin"
+  },
+  {
+    "neighborhood": "Belmont Gardens",
+    "community": "Hermosa"
+  },
+  {
+    "neighborhood": "Belmont Heights",
+    "community": "Dunning"
+  },
+  {
+    "neighborhood": "Belmont Terrace",
+    "community": "Dunning"
+  },
+  {
+    "neighborhood": "Beverly",
+    "community": "Beverly"
+  },
+  {
+    "neighborhood": "Beverly View",
+    "community": "Ashburn"
+  },
+  {
+    "neighborhood": "Beverly Woods",
+    "community": "Morgan Park"
+  },
+  {
+    "neighborhood": "Big Oaks",
+    "community": "Norwood Park"
+  },
+  {
+    "neighborhood": "Northalsted \"Boystown\"",
+    "community": "Lake View"
+  },
+  {
+    "neighborhood": "Bowmanville",
+    "community": "Lincoln Square"
+  },
+  {
+    "neighborhood": "Brainerd",
+    "community": "Washington Heights"
+  },
+  {
+    "neighborhood": "Brickyard",
+    "community": "Belmont Cragin"
+  },
+  {
+    "neighborhood": "Bridgeport",
+    "community": "Bridgeport"
+  },
+  {
+    "neighborhood": "Brighton Park",
+    "community": "Brighton Park"
+  },
+  {
+    "neighborhood": "Bronzeville",
+    "community": "Douglas"
+  },
+  {
+    "neighborhood": "Bucktown",
+    "community": "Logan Square"
+  },
+  {
+    "neighborhood": "Budlong Woods",
+    "community": "Lincoln Square"
+  },
+  {
+    "neighborhood": "Buena Park",
+    "community": "Uptown"
+  },
+  {
+    "neighborhood": "Burnside",
+    "community": "Burnside"
+  },
+  {
+    "neighborhood": "Cabrini–Green",
+    "community": "Near North Side"
+  },
+  {
+    "neighborhood": "Calumet Heights",
+    "community": "Calumet Heights"
+  },
+  {
+    "neighborhood": "Canaryville",
+    "community": "New City"
+  },
+  {
+    "neighborhood": "Central Station",
+    "community": "Near South Side"
+  },
+  {
+    "neighborhood": "Chatham",
+    "community": "Chatham"
+  },
+  {
+    "neighborhood": "Chicago Lawn",
+    "community": "Chicago Lawn"
+  },
+  {
+    "neighborhood": "Chinatown",
+    "community": "Armour Square"
+  },
+  {
+    "neighborhood": "Chrysler Village",
+    "community": "Clearing"
+  },
+  {
+    "neighborhood": "Clarendon Park",
+    "community": "Uptown"
+  },
+  {
+    "neighborhood": "Clearing East",
+    "community": "Clearing"
+  },
+  {
+    "neighborhood": "Clearing West",
+    "community": "Clearing"
+  },
+  {
+    "neighborhood": "Cottage Grove Heights",
+    "community": "Pullman"
+  },
+  {
+    "neighborhood": "Cragin",
+    "community": "Belmont Cragin"
+  },
+  {
+    "neighborhood": "Crestline",
+    "community": "Ashburn"
+  },
+  {
+    "neighborhood": "Dearborn Homes",
+    "community": "Douglas"
+  },
+  {
+    "neighborhood": "Dearborn Park",
+    "community": "Near South Side"
+  },
+  {
+    "neighborhood": "Douglas Park",
+    "community": "North Lawndale"
+  },
+  {
+    "neighborhood": "Dunning",
+    "community": "Dunning"
+  },
+  {
+    "neighborhood": "East Beverly",
+    "community": "Beverly"
+  },
+  {
+    "neighborhood": "East Chatham",
+    "community": "Chatham"
+  },
+  {
+    "neighborhood": "East Garfield Park",
+    "community": "East Garfield Park"
+  },
+  {
+    "neighborhood": "East Hyde Park",
+    "community": "Hyde Park"
+  },
+  {
+    "neighborhood": "East Pilsen",
+    "community": "Lower West Side"
+  },
+  {
+    "neighborhood": "East Side",
+    "community": "East Side"
+  },
+  {
+    "neighborhood": "East Village",
+    "community": "West Town"
+  },
+  {
+    "neighborhood": "Eden Green",
+    "community": "Riverdale"
+  },
+  {
+    "neighborhood": "Edgebrook",
+    "community": "Forest Glen"
+  },
+  {
+    "neighborhood": "Edgewater",
+    "community": "Edgewater"
+  },
+  {
+    "neighborhood": "Edgewater Beach",
+    "community": "Edgewater"
+  },
+  {
+    "neighborhood": "Edgewater Glen",
+    "community": "Edgewater"
+  },
+  {
+    "neighborhood": "Edison Park",
+    "community": "Edison Park"
+  },
+  {
+    "neighborhood": "Englewood",
+    "community": "Englewood"
+  },
+  {
+    "neighborhood": "Fernwood",
+    "community": "Roseland"
+  },
+  {
+    "neighborhood": "Fifth City",
+    "community": "East Garfield Park"
+  },
+  {
+    "neighborhood": "Ford City",
+    "community": "West Lawn"
+  },
+  {
+    "neighborhood": "Forest Glen",
+    "community": "Forest Glen"
+  },
+  {
+    "neighborhood": "Fuller Park",
+    "community": "Fuller Park"
+  },
+  {
+    "neighborhood": "Fulton River District",
+    "community": "Near West Side"
+  },
+  {
+    "neighborhood": "Gage Park",
+    "community": "Gage Park"
+  },
+  {
+    "neighborhood": "Galewood",
+    "community": "Austin"
+  },
+  {
+    "neighborhood": "The Gap",
+    "community": "Douglas"
+  },
+  {
+    "neighborhood": "Garfield Ridge",
+    "community": "Garfield Ridge"
+  },
+  {
+    "neighborhood": "Gladstone Park",
+    "community": "Jefferson Park"
+  },
+  {
+    "neighborhood": "Gold Coast",
+    "community": "Near North Side"
+  },
+  {
+    "neighborhood": "Golden Gate",
+    "community": "Riverdale"
+  },
+  {
+    "neighborhood": "Goose Island",
+    "community": "Near North Side"
+  },
+  {
+    "neighborhood": "Graceland West",
+    "community": "Lake View"
+  },
+  {
+    "neighborhood": "Grand Boulevard",
+    "community": "Grand Boulevard"
+  },
+  {
+    "neighborhood": "Grand Crossing",
+    "community": "Greater Grand Crossing"
+  },
+  {
+    "neighborhood": "Greater Grand Crossing",
+    "community": "Greater Grand Crossing"
+  },
+  {
+    "neighborhood": "Greektown",
+    "community": "Near West Side"
+  },
+  {
+    "neighborhood": "Gresham",
+    "community": "Auburn Gresham"
+  },
+  {
+    "neighborhood": "Groveland Park",
+    "community": "Douglas"
+  },
+  {
+    "neighborhood": "Hamilton Park",
+    "community": "Englewood"
+  },
+  {
+    "neighborhood": "Hanson Park",
+    "community": "Belmont Cragin"
+  },
+  {
+    "neighborhood": "Heart of Chicago",
+    "community": "Lower West Side"
+  },
+  {
+    "neighborhood": "Hegewisch",
+    "community": "Hegewisch"
+  },
+  {
+    "neighborhood": "Hermosa",
+    "community": "Hermosa"
+  },
+  {
+    "neighborhood": "Hollywood Park",
+    "community": "North Park"
+  },
+  {
+    "neighborhood": "Homan Square",
+    "community": "North Lawndale"
+  },
+  {
+    "neighborhood": "Humboldt Park",
+    "community": "Humboldt Park"
+  },
+  {
+    "neighborhood": "Hyde Park",
+    "community": "Hyde Park"
+  },
+  {
+    "neighborhood": "Illinois Medical District",
+    "community": "Near West Side"
+  },
+  {
+    "neighborhood": "Irving Park",
+    "community": "Irving Park"
+  },
+  {
+    "neighborhood": "Irving Woods",
+    "community": "Dunning"
+  },
+  {
+    "neighborhood": "The Island",
+    "community": "Austin"
+  },
+  {
+    "neighborhood": "Jackowo",
+    "community": "Avondale"
+  },
+  {
+    "neighborhood": "Jackson Park Highlands",
+    "community": "South Shore"
+  },
+  {
+    "neighborhood": "Jefferson Park",
+    "community": "Jefferson Park"
+  },
+  {
+    "neighborhood": "K-Town",
+    "community": "North Lawndale"
+  },
+  {
+    "neighborhood": "Kelvyn Park",
+    "community": "Hermosa"
+  },
+  {
+    "neighborhood": "Kennedy Park",
+    "community": "Morgan Park"
+  },
+  {
+    "neighborhood": "Kensington",
+    "community": "Roseland"
+  },
+  {
+    "neighborhood": "Kenwood",
+    "community": "Kenwood"
+  },
+  {
+    "neighborhood": "Kilbourn Park",
+    "community": "Irving Park"
+  },
+  {
+    "neighborhood": "Kosciuszko Park",
+    "community": "Logan Square"
+  },
+  {
+    "neighborhood": "Lake Meadows",
+    "community": "Douglas"
+  },
+  {
+    "neighborhood": "Lake View",
+    "community": "Lake View"
+  },
+  {
+    "neighborhood": "Lakeview (East)",
+    "community": "Lake View"
+  },
+  {
+    "neighborhood": "Lakewood / Balmoral",
+    "community": "Edgewater"
+  },
+  {
+    "neighborhood": "LeClaire Courts",
+    "community": "Garfield Ridge"
+  },
+  {
+    "neighborhood": "Legends South (Robert Taylor Homes)",
+    "community": "Grand Boulevard"
+  },
+  {
+    "neighborhood": "Lilydale",
+    "community": "Roseland"
+  },
+  {
+    "neighborhood": "Lincoln Park",
+    "community": "Lincoln Park"
+  },
+  {
+    "neighborhood": "Lincoln Square",
+    "community": "Lincoln Square"
+  },
+  {
+    "neighborhood": "Lithuanian Plaza",
+    "community": "Chicago Lawn"
+  },
+  {
+    "neighborhood": "Little Italy",
+    "community": "Near West Side"
+  },
+  {
+    "neighborhood": "Little Village",
+    "community": "South Lawndale"
+  },
+  {
+    "neighborhood": "Logan Square",
+    "community": "Logan Square"
+  },
+  {
+    "neighborhood": "Longwood Manor",
+    "community": "Washington Heights"
+  },
+  {
+    "neighborhood": "The Loop",
+    "community": "Loop"
+  },
+  {
+    "neighborhood": "Lower West Side",
+    "community": "Lower West Side"
+  },
+  {
+    "neighborhood": "Loyola",
+    "community": "Rogers Park"
+  },
+  {
+    "neighborhood": "Magnificent Mile",
+    "community": "Near North Side"
+  },
+  {
+    "neighborhood": "Margate Park",
+    "community": "Uptown"
+  },
+  {
+    "neighborhood": "Marquette Park",
+    "community": "Chicago Lawn"
+  },
+  {
+    "neighborhood": "Marshall Square",
+    "community": "South Lawndale"
+  },
+  {
+    "neighborhood": "Marynook",
+    "community": "Avalon Park"
+  },
+  {
+    "neighborhood": "Mayfair",
+    "community": "Albany Park"
+  },
+  {
+    "neighborhood": "McKinley Park",
+    "community": "McKinley Park"
+  },
+  {
+    "neighborhood": "Merchant Park",
+    "community": "Irving Park"
+  },
+  {
+    "neighborhood": "Montclare",
+    "community": "Montclare"
+  },
+  {
+    "neighborhood": "Morgan Park",
+    "community": "Morgan Park"
+  },
+  {
+    "neighborhood": "Mount Greenwood",
+    "community": "Mount Greenwood"
+  },
+  {
+    "neighborhood": "Museum Campus",
+    "community": "Near South Side"
+  },
+  {
+    "neighborhood": "New Eastside",
+    "community": "The Loop"
+  },
+  {
+    "neighborhood": "Near North Side",
+    "community": "Near North Side"
+  },
+  {
+    "neighborhood": "Near West Side",
+    "community": "Near West Side"
+  },
+  {
+    "neighborhood": "New Chinatown",
+    "community": "Uptown"
+  },
+  {
+    "neighborhood": "New City",
+    "community": "New City"
+  },
+  {
+    "neighborhood": "Noble Square",
+    "community": "West Town"
+  },
+  {
+    "neighborhood": "North Austin",
+    "community": "Austin"
+  },
+  {
+    "neighborhood": "North Center",
+    "community": "North Center"
+  },
+  {
+    "neighborhood": "North Halsted",
+    "community": "Lake View"
+  },
+  {
+    "neighborhood": "North Kenwood",
+    "community": "Kenwood"
+  },
+  {
+    "neighborhood": "North Lawndale",
+    "community": "North Lawndale"
+  },
+  {
+    "neighborhood": "North Mayfair",
+    "community": "Albany Park"
+  },
+  {
+    "neighborhood": "North Park",
+    "community": "North Park"
+  },
+  {
+    "neighborhood": "Nortown",
+    "community": "West Ridge"
+  },
+  {
+    "neighborhood": "Norwood Park East",
+    "community": "Norwood Park"
+  },
+  {
+    "neighborhood": "Norwood Park West",
+    "community": "Norwood Park"
+  },
+  {
+    "neighborhood": "Oakland",
+    "community": "Oakland"
+  },
+  {
+    "neighborhood": "O'Hare",
+    "community": "O'Hare"
+  },
+  {
+    "neighborhood": "Old Edgebrook",
+    "community": "Forest Glen"
+  },
+  {
+    "neighborhood": "Old Irving Park",
+    "community": "Irving Park"
+  },
+  {
+    "neighborhood": "Old Norwood",
+    "community": "Norwood Park"
+  },
+  {
+    "neighborhood": "Old Town",
+    "community": "Near North Side"
+  },
+  {
+    "neighborhood": "Old Town Triangle",
+    "community": "Lincoln Park"
+  },
+  {
+    "neighborhood": "Oriole Park",
+    "community": "Norwood Park"
+  },
+  {
+    "neighborhood": "Palmer Square",
+    "community": "Logan Square"
+  },
+  {
+    "neighborhood": "Park Manor",
+    "community": "Greater Grand Crossing"
+  },
+  {
+    "neighborhood": "Park West",
+    "community": "Lincoln Park"
+  },
+  {
+    "neighborhood": "Parkview",
+    "community": "Ashburn"
+  },
+  {
+    "neighborhood": "Peterson Park",
+    "community": "West Ridge"
+  },
+  {
+    "neighborhood": "Pill Hill",
+    "community": "Calumet Heights"
+  },
+  {
+    "neighborhood": "Pilsen",
+    "community": "Lower West Side"
+  },
+  {
+    "neighborhood": "Polish Downtown",
+    "community": "West Town, Logan Square"
+  },
+  {
+    "neighborhood": "Polish Village",
+    "community": "Avondale, Irving Park"
+  },
+  {
+    "neighborhood": "Portage Park",
+    "community": "Portage Park"
+  },
+  {
+    "neighborhood": "Prairie Avenue Historic District",
+    "community": "Near South Side"
+  },
+  {
+    "neighborhood": "Prairie Shores",
+    "community": "Douglas"
+  },
+  {
+    "neighborhood": "Princeton Park",
+    "community": "Roseland"
+  },
+  {
+    "neighborhood": "Printer's Row",
+    "community": "The Loop"
+  },
+  {
+    "neighborhood": "Pulaski Park",
+    "community": "West Town"
+  },
+  {
+    "neighborhood": "Pullman",
+    "community": "Pullman"
+  },
+  {
+    "neighborhood": "Ranch Triangle",
+    "community": "Lincoln Park"
+  },
+  {
+    "neighborhood": "Ravenswood",
+    "community": "Lincoln Square"
+  },
+  {
+    "neighborhood": "Ravenswood Gardens",
+    "community": "Lincoln Square"
+  },
+  {
+    "neighborhood": "Ravenswood Manor",
+    "community": "Albany Park"
+  },
+  {
+    "neighborhood": "River North",
+    "community": "Near North Side"
+  },
+  {
+    "neighborhood": "River West",
+    "community": "West Town"
+  },
+  {
+    "neighborhood": "River's Edge",
+    "community": "North Park"
+  },
+  {
+    "neighborhood": "Riverdale",
+    "community": "Riverdale"
+  },
+  {
+    "neighborhood": "Rogers Park",
+    "community": "Rogers Park"
+  },
+  {
+    "neighborhood": "Roscoe Village",
+    "community": "North Center"
+  },
+  {
+    "neighborhood": "Rosehill",
+    "community": "West Ridge"
+  },
+  {
+    "neighborhood": "Roseland",
+    "community": "Roseland"
+  },
+  {
+    "neighborhood": "Rosemoor",
+    "community": "Roseland"
+  },
+  {
+    "neighborhood": "St. Ben's",
+    "community": "North Center"
+  },
+  {
+    "neighborhood": "Sauganash",
+    "community": "Forest Glen"
+  },
+  {
+    "neighborhood": "Schorsch Forest View",
+    "community": "O'Hare"
+  },
+  {
+    "neighborhood": "Schorsch Village",
+    "community": "Dunning"
+  },
+  {
+    "neighborhood": "Scottsdale",
+    "community": "Ashburn"
+  },
+  {
+    "neighborhood": "Sheffield Neighbors",
+    "community": "Lincoln Park"
+  },
+  {
+    "neighborhood": "Sheridan Park",
+    "community": "Uptown"
+  },
+  {
+    "neighborhood": "Sheridan Station Corridor",
+    "community": "Lakeview"
+  },
+  {
+    "neighborhood": "Sleepy Hollow",
+    "community": "Garfield Ridge"
+  },
+  {
+    "neighborhood": "Smith Park",
+    "community": "West Town"
+  },
+  {
+    "neighborhood": "South Austin",
+    "community": "Austin"
+  },
+  {
+    "neighborhood": "South Chicago",
+    "community": "South Chicago"
+  },
+  {
+    "neighborhood": "South Commons",
+    "community": "Douglas"
+  },
+  {
+    "neighborhood": "South Deering",
+    "community": "South Deering"
+  },
+  {
+    "neighborhood": "South East Ravenswood",
+    "community": "Lake View"
+  },
+  {
+    "neighborhood": "South Edgebrook",
+    "community": "Forest Glen"
+  },
+  {
+    "neighborhood": "South Lawndale",
+    "community": "South Lawndale"
+  },
+  {
+    "neighborhood": "South Loop",
+    "community": "The Loop"
+  },
+  {
+    "neighborhood": "South Shore",
+    "community": "South Shore"
+  },
+  {
+    "neighborhood": "Stateway Gardens",
+    "community": "Douglas"
+  },
+  {
+    "neighborhood": "Stony Island Park",
+    "community": "Avalon Park"
+  },
+  {
+    "neighborhood": "Streeterville",
+    "community": "Near North Side"
+  },
+  {
+    "neighborhood": "Talley's Corner",
+    "community": "Mount Greenwood"
+  },
+  {
+    "neighborhood": "Tri-Taylor",
+    "community": "Near West Side"
+  },
+  {
+    "neighborhood": "Ukrainian Village",
+    "community": "West Town"
+  },
+  {
+    "neighborhood": "Union Ridge",
+    "community": "Norwood Park"
+  },
+  {
+    "neighborhood": "University Village",
+    "community": "Near West Side"
+  },
+  {
+    "neighborhood": "Uptown",
+    "community": "Uptown"
+  },
+  {
+    "neighborhood": "The Villa",
+    "community": "Irving Park"
+  },
+  {
+    "neighborhood": "Vittum Park",
+    "community": "Garfield Ridge"
+  },
+  {
+    "neighborhood": "Wacławowo",
+    "community": "Avondale"
+  },
+  {
+    "neighborhood": "Washington Heights",
+    "community": "Washington Heights"
+  },
+  {
+    "neighborhood": "Washington Park",
+    "community": "Washington Park"
+  },
+  {
+    "neighborhood": "Wentworth Gardens",
+    "community": "Armour Square"
+  },
+  {
+    "neighborhood": "West Beverly",
+    "community": "Beverly"
+  },
+  {
+    "neighborhood": "West Chatham",
+    "community": "Chatham"
+  },
+  {
+    "neighborhood": "West Chesterfield",
+    "community": "Chatham, Roseland"
+  },
+  {
+    "neighborhood": "West DePaul",
+    "community": "Lincoln Park"
+  },
+  {
+    "neighborhood": "West Elsdon",
+    "community": "West Elsdon"
+  },
+  {
+    "neighborhood": "West Englewood",
+    "community": "West Englewood"
+  },
+  {
+    "neighborhood": "West Garfield Park",
+    "community": "West Garfield Park"
+  },
+  {
+    "neighborhood": "West Humboldt Park",
+    "community": "Austin, Humboldt Park"
+  },
+  {
+    "neighborhood": "Lakeview (West)",
+    "community": "Lake View"
+  },
+  {
+    "neighborhood": "West Lawn",
+    "community": "West Lawn"
+  },
+  {
+    "neighborhood": "West Loop",
+    "community": "Near West Side"
+  },
+  {
+    "neighborhood": "West Morgan Park",
+    "community": "Morgan Park"
+  },
+  {
+    "neighborhood": "West Pullman",
+    "community": "West Pullman"
+  },
+  {
+    "neighborhood": "West Ridge",
+    "community": "West Ridge"
+  },
+  {
+    "neighborhood": "West Rogers Park",
+    "community": "West Ridge"
+  },
+  {
+    "neighborhood": "West Town",
+    "community": "West Town"
+  },
+  {
+    "neighborhood": "West Woodlawn",
+    "community": "Woodlawn"
+  },
+  {
+    "neighborhood": "Wicker Park",
+    "community": "West Town"
+  },
+  {
+    "neighborhood": "Wildwood",
+    "community": "Forest Glen"
+  },
+  {
+    "neighborhood": "Woodlawn",
+    "community": "Woodlawn"
+  },
+  {
+    "neighborhood": "Wrightwood",
+    "community": "Ashburn"
+  },
+  {
+    "neighborhood": "Wrightwood Neighbors",
+    "community": "Lincoln Park"
+  },
+  {
+    "neighborhood": "Wrigleyville",
+    "community": "Lake View"
+  },
+  {
+    "neighborhood": "Montclaire",
+    "community": "Montclaire"
+  }
+ ]
