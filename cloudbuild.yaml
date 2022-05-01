@@ -19,7 +19,7 @@ steps:
   
 - name: "gcr.io/google.com/cloudsdktool/cloud-sdk"
   entrypoint: gcloud
-  args: ['run', 'deploy','go-microservice', '--image','gcr.io/chicago-business-intelligence9/go-microservice', '--region','us-central1', '--add-cloudsql-instances', 'chicago-business-intelligence9:us-central1:mypostgres1','--platform','managed', '--port','8080', '--allow-unauthenticated']
+  args: ['run', 'deploy','go-microservice', '--image','gcr.io/chicago-business-intelligence9/go-microservice', '--region','us-central1', '--add-cloudsql-instances', 'chicago-business-intelligence9:us-central1:mypostgres1','--platform','managed', '--port','8088', '--allow-unauthenticated']
 images:
 - gcr.io/chicago-business-intelligence9/go-microservice
 - gcr.io/chicago-business-intelligence9/pgadmin
