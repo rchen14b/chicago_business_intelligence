@@ -182,7 +182,7 @@ func GetTaxiTrips(db *sql.DB) {
 	// Get your geocoder.ApiKey from here :
 	// https://developers.google.com/maps/documentation/geocoding/get-api-key?authuser=2
 
-	geocoder.ApiKey = "AIzaSyCAJbTOZEV6yoRYzAIfmBk6zISV00rYidQ"
+	geocoder.ApiKey = "AIzaSyCqf4yo1mo2l0HoJ394SeH14YAF6B9SHpA"
 	fmt.Println("GetTaxiTrips: Creating database table: as5_taxi_trips")
 	drop_table := `drop table if exists as5_taxi_trips`
 	_, err := db.Exec(drop_table)
@@ -533,7 +533,7 @@ func GetUnemploymentRates(db *sql.DB) {
 
 func GetBuildingPermits(db *sql.DB) {
 	fmt.Println("GetBuildingPermits: Collecting Building Permits Data")
-	geocoder.ApiKey = "AIzaSyCAJbTOZEV6yoRYzAIfmBk6zISV00rYidQ"
+	geocoder.ApiKey = "AIzaSyCqf4yo1mo2l0HoJ394SeH14YAF6B9SHpA"
 	fmt.Println("GetBuildingPermits: Creating database table: as5_building_permit")
 	drop_table := `drop table if exists as5_building_permit`
 	_, err := db.Exec(drop_table)
@@ -749,7 +749,7 @@ func GetCovidZipCode(db *sql.DB) {
 
 func GetCovidDaily(db *sql.DB) {
 	fmt.Println("GetCovidDaily: Collecting Covid daily Data")
-	geocoder.ApiKey = "AIzaSyCAJbTOZEV6yoRYzAIfmBk6zISV00rYidQ"
+	geocoder.ApiKey = "AIzaSyCqf4yo1mo2l0HoJ394SeH14YAF6B9SHpA"
 	fmt.Println("GetCovidDaily: Creating database table: as5_covid_daily")
 	drop_table := `drop table if exists as5_covid_daily`
 	_, err := db.Exec(drop_table)
